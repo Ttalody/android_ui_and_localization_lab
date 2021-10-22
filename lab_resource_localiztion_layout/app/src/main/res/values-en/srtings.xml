@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_resource_localization_layout</string>
+    <string name="app_orientation_text_portrait">Portrait view</string>
+    <string name="app_orientation_text_landscape">Landscape view</string>
+    <string name="initialization_text">Akulich Artur</string>
+    <string name="specialization_text">Math and IT</string>
+    <string name="group_text">Group 9</string>
+</resources>

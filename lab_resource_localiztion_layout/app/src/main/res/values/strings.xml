@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_resource_localization_layout</string>
+    <string name="app_orientation_text_portrait">Портретный вид</string>
+    <string name="app_orientation_text_landscape">Горизонтальный вид</string>
+    <string name="initialization_text">Акулич Артур Максимович</string>
+    <string name="specialization_text">Математика и информационные технологии</string>
+    <string name="group_text">9 группа</string>
+</resources>
